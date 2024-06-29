@@ -10,6 +10,7 @@ by Andrew Dyet
 
 Note: To run the notebook, save the .csv file renamed crime.csv in the same folder as the notebook
 
+The purpose of this project is to answer the following questions: 
 - Which types of crime are the most common?
 - Is there a correlation between the time of day, day of the week, or month of the year, where crime spikes?
 - Which neighborhoods have the highest crime rates?

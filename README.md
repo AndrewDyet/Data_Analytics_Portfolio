@@ -2,7 +2,7 @@
 by Andrew Dyet
 
 
-## Project 1 - Cleveland Crime Statistics
+## Project 1 - Cleveland Crime Statistics - Using Pandas, Numpy, Seaborn, and Tableau
 
 **This Jupyter notebook file uses the Cleveland City API - Crime Incidents**
 
@@ -13,10 +13,10 @@ Note: To run the notebook, save the .csv file renamed crime.csv in the same fold
 To view the Tableau Dashboard of this project, click [here](https://public.tableau.com/shared/8RHS7Z26R?:display_count=n&:origin=viz_share_link)
 
 The purpose of this project is to answer the following questions: 
-- Which types of crime are the most common?
-- Is there a correlation between the time of day, day of the week, or month of the year, where crime spikes?
-- Which neighborhoods have the highest crime rates?
-- Which zip codes have the highest crime rates?
+1. Which types of crime are the most common?
+2. Is there a correlation between the time of day, day of the week, or month of the year, where crime spikes?
+3. Which neighborhoods have the highest crime rates?
+4. Which zip codes have the highest crime rates?
 
 The steps taken to clean the data are as follows;
 
@@ -27,12 +27,12 @@ The steps taken to clean the data are as follows;
 
 The conclusions drawn are: 
 
-- The most common crimes are Assault, Theft, and Vandalism.
-- The most common times for crime to occur are noon and midnight, with no correlation between amount of crime and days of the week.
-- The neighborhood with the highest crime is the city of Cleveland.
-- The zip code with the highest crime is 44102.
+1. The most common crimes are Assault, Theft, and Vandalism.
+2. The most common times for crime to occur are noon and midnight, with no correlation between amount of crime and days of the week.
+3. The neighborhood with the highest crime is the city of Cleveland.
+4. The zip code with the highest crime is 44102.
 
-## Project 2 - United States Senate Stock Trades
+## Project 2 - United States Senate Stock Trades - Using Pandas, Numpy, Seaborn, and Tableau
 
 [Download Stock History Here](https://senatestockwatcher.com/api)
 
@@ -41,10 +41,10 @@ Note: To run the notebook, save the .csv file renamed trades.csv in the same fol
 To view the Tableau Dashboard of this project, click [here](https://public.tableau.com/views/SenateStockTrades/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 The purpose of this project is to answer the following questions: 
-- What sectors are most commonly traded?
-- Which political party trades stocks the most?
-- Is there a particular senator that has traded more stocks than the rest?
-- Was there a period of time where the most stocks were traded?
+1. What sectors are most commonly traded?
+2. Which political party trades stocks the most?
+  3. Is there a particular senator that has traded more stocks than the rest?
+  4. Was there a period of time where the most stocks were traded?
 
 The steps taken to clean the data are as follows;
 
@@ -56,8 +56,11 @@ The steps taken to clean the data are as follows;
 
 The conclusions drawn are:
 
-- The most commonly traded sector is Finance followed by Health Care.
-- Republicans trade more often and at higher volume than Democrats or Independants.
-- Kelly Loefler and Susan M. Collins traded the highest amount of money in stocks.
-- The year with the most trades was 2020 with 1,168 trades with the majority happening in the month of April.
+1. The most commonly traded sector is Finance followed by Health Care.
+2. Republicans trade more often and at higher volume than Democrats or Independants.
+3. Kelly Loefler and Susan M. Collins traded the highest amount of money in stocks.
+4. The year with the most trades was 2020 with 1,168 trades with the majority happening in the month of April.
   
+## Project 3 - Chicago Crime Statistics - Using SQLite3 and Pandas
+
+The purpose of this project is to demonstrate SQL query abilities by referencing 3 separate dataframes and drawing conclusions based on these queries.

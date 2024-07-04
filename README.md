@@ -59,4 +59,5 @@ The conclusions drawn are:
 - The most commonly traded sector is Finance followed by Health Care.
 - Republicans trade more often and at higher volume than Democrats or Independants.
 - Kelly Loefler and Susan M. Collins traded the highest amount of money in stocks.
-- The year 
+- The year with the most trades was 2020 with 1,168 trades with the majority happening in the month of April.
+  

@@ -34,7 +34,7 @@ The conclusions drawn are:
 
 ## Project 2 - United States Senate Stock Trades
 
-[Download Relevant CSV File Here](https://senatestockwatcher.com/api)
+[Download Stock History Here](https://senatestockwatcher.com/api)
 
 Note: To run the notebook, save the .csv file renamed trades.csv in the same folder as the notebook
 
